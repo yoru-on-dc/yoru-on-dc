@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25%" align="right" />
+<img src= width="25%" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=48&duration=3500&pause=250&color=FF4D6D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=140&lines=hello+hello;I'm+yoru;chaotic+overcaffeinated+mess+%E2%98%95%E2%9C%A9" width="70%" />
 
