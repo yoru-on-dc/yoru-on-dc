@@ -68,7 +68,7 @@ Most of my time is spent learning, experimenting, or turning ideas into code.
 ---
 ## links
 
-- discord: <your discord here>  
+- discord: 1499087089629790293 @y_0_r_u
 - github: you’re already here  
 
 ---
