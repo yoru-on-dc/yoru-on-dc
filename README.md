@@ -1,80 +1,79 @@
 <div align="center">
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=38&duration=3500&pause=250&color=FF4D6D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=180&lines=hello+hello;I'm+yoru;chaotic+overcaffeinated+mess+%E2%98%95%E2%9C%A9" width="70%" />
-<br><br>
-
-<pre>
-    ☕ Chaotic Overcaffeinated Mess (certified)
-    🐍 Writes code at 3am with questionable confidence
-    💻 Full-stack-ish / breaks-stack / fixes-later-stack
-    ⚙️ TypeScript • Python • Rust (sometimes it obeys)
-    🧠 Ideas: infinite  
-       Execution: depends on caffeine level
-    🎮 Games • Anime • Debugging life itself
-    🌙 Sleep? optional feature, not installed
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2200&pause=300&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=yoru;powered+by+caffeine;running+on+low+sleep;energy+levels+unstable;ideas+%3E+execution" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<b style="color:#00F0FF;">☕ caffeine-fueled developer with a scuffed sleep schedule</b>
 
-<br><br>
-
----
-
-### 🐍 yoru’s scuffed snake™
-
-> a snake game built with discipline, regret, and excessive caffeine
-
-🎮 play it here → https://your-link-here.com  
-*(if it breaks, it’s immersive gameplay)*
+</div>
 
 ---
 
-### ☕ runtime environment
+### ⚡ current state
 
-- caffeine level: ██████████▒▒▒▒▒▒▒▒
-- sleep schedule: corrupted
-- brain threads: 47 running / 12 stuck / 3 deprecated
-- productivity: bursts of genius separated by loading screens
+<div align="left">
 
----
+**caffeine level**  
+![caffeine](https://progress-bar.dev/70/?scale=100&title=&width=300&color=00F0FF)
 
-### ⚙️ stack (held together by hope)
+**energy level**  
+![energy](https://progress-bar.dev/45/?scale=100&title=&width=300&color=2F6BFF)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**sleep schedule**  
+![sleep](https://progress-bar.dev/10/?scale=100&title=&width=300&color=111111)
 
----
+brain activity : too many tabs open  
+productivity : random bursts → long cooldowns  
 
-### 📈 github stats (a controlled explosion)
-
-<img src="https://github-readme-stats.vercel.app/api?username=yoru&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yoru&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
 ---
 
-### 🧷 philosophy
+### 🧠 about me
 
-> “i’ll fix it later”  
-> (later is doing a lot of work here)
-
-> “it works on my machine”  
-> — ancient prophecy
+- writes code at hours that should not exist  
+- has ideas faster than they can be executed  
+- fixes things (eventually)  
+- runs purely on ☕ + ⚡ + questionable decisions  
 
 ---
 
-### 🐾 final transmission
+### 🎮 side quest
 
-currently operating on:
-☕ coffee  
+snake game (scuffed edition)  
+→ https://your-link-here.com  
+
+status: might work  
+
+---
+
+### ⚙️ tech i poke at
+
+![TypeScript](https://img.shields.io/badge/TypeScript-2F6BFF?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00F0FF)
+
+---
+
+### 📊 stats (somehow functioning)
+
+<img src="https://github-readme-stats.vercel.app/api?username=yoru&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=2F6BFF&text_color=00E0FF" width="49%" />
+
+---
+
+### 🎧 recently played
+
+<img src="https://lastfm-recently-played.vercel.app/api?user=y_0_r_u&count=3&width=400&loved=true&bg_color=000000&border_radius=5&header_style=none&title_color=00F0FF&text_color=00E0FF&icon_color=2F6BFF" />
+
+---
+
+<div align="center">
+
+currently running on:  
+☕ caffeine  
 ⚡ chaos  
-🧠 intrusive ideas  
+🧠 intrusive thoughts  
 💾 vibes-based engineering  
 
 </div>
