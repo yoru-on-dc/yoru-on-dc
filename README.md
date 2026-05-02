@@ -1,79 +1,106 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2200&pause=300&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=yoru;powered+by+caffeine;running+on+low+sleep;energy+levels+unstable;ideas+%3E+execution" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=400&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=yoru" />
 
 <br>
 
-<b style="color:#00F0FF;">☕ caffeine-fueled developer with a scuffed sleep schedule</b>
+<b style="color:#00F0FF;">developer • learner • occasional chaos enjoyer</b>
 
 </div>
 
 ---
 
-### ⚡ current state
+## about me
 
-<div align="left">
+I’m yoru. I build things, break things, and fix them in no particular order.
 
-**caffeine level**  
-![caffeine](https://progress-bar.dev/70/?scale=100&title=&width=300&color=00F0FF)
+I like creating software that works *just enough*, and improving it until it works properly.
 
-**energy level**  
-![energy](https://progress-bar.dev/45/?scale=100&title=&width=300&color=2F6BFF)
-
-**sleep schedule**  
-![sleep](https://progress-bar.dev/10/?scale=100&title=&width=300&color=111111)
-
-brain activity : too many tabs open  
-productivity : random bursts → long cooldowns  
-
-</div>
+Most of my time is spent learning, experimenting, or turning ideas into code.
 
 ---
 
-### 🧠 about me
+## what i do
 
-- writes code at hours that should not exist  
-- has ideas faster than they can be executed  
-- fixes things (eventually)  
-- runs purely on ☕ + ⚡ + questionable decisions  
-
----
-
-### 🎮 side quest
-
-snake game (scuffed edition)  
-→ https://your-link-here.com  
-
-status: might work  
+- build web apps and tools  
+- experiment with different technologies  
+- learn by breaking things  
+- rebuild them better (usually)  
 
 ---
 
-### ⚙️ tech i poke at
+## interests
 
-![TypeScript](https://img.shields.io/badge/TypeScript-2F6BFF?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black)
+- software development  
+- minimal UI and design  
+- games and interactive systems  
+- understanding how things work  
+
+---
+
+## tech i use
+
+![TypeScript](https://img.shields.io/badge/TypeScript-00F0FF?style=for-the-badge&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-2F6BFF?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00F0FF)
+![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF)
 
 ---
 
-### 📊 stats (somehow functioning)
+## 🎧 what i listen to
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoru-on-dc&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=2F6BFF&text_color=00E0FF" width="49%" />
+<div align="center">
+
+<img src="https://lastfm-recently-played.vercel.app/api?user=y_0_r_u&count=3&width=420&loved=true&bg_color=000000&border_radius=10&header_style=none&title_color=00F0FF&text_color=00E0FF&icon_color=2F6BFF" />
+
+</div>
 
 ---
 
-### 🎧 recently played
+## 👁️ stalk me
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=y_0_r_u&count=3&width=400&loved=true&bg_color=000000&border_radius=5&header_style=none&title_color=00F0FF&text_color=00E0FF&icon_color=2F6BFF" />
+<div align="center">
 
+<img src="https://lanyard.cnrad.dev/api/1481033153387958388?bg=000000&borderRadius=10px&idleMessage=probably%20coding%20or%20offline&theme=dark&showDisplayName=true" />
+
+</div>
+
+---
+## links
+
+- discord: <your discord here>  
+- github: you’re already here  
+
+---
+## 🚀 projects
+
+### Novam Studios
+community director
+
+> building and managing community systems + projects inside Novam Studios
+
+🔗 discord server → https://discord.com/invite/1394048333193941107  
+
+---
+
+### personal projects
+things I experiment with and break repeatedly
+
+- snake game (scuffed edition)  
+  🔗 https://your-link-here.com  
+
+- more coming soon  
+  🔗 in progress / not stable yet  
+
+---
+
+### notes
+
+I don’t really treat projects as finished products — more like evolving systems that slowly become usable over time.
 ---
 
 <div align="center">
 
-currently running on:  
-☕ caffeine  
-⚡ chaos  
-🧠 intrusive thoughts  
-💾 vibes-based engineering  
+thanks for stopping by
 
 </div>
