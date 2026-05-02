@@ -58,7 +58,7 @@ status: might work
 
 ### 📊 stats (somehow functioning)
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoru&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=2F6BFF&text_color=00E0FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yoru-on-dc&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=2F6BFF&text_color=00E0FF" width="49%" />
 
 ---
 
