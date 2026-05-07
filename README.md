@@ -4,7 +4,7 @@
 
 <br>
 
-<b style="color:#00F0FF;">developer • learner • occasional chaos enjoyer</b>
+<b style="color:#00F0FF;">community manager • team lead • systems builder</b>
 
 </div>
 
@@ -12,29 +12,51 @@
 
 ## about me
 
-I’m yoru. I build things, break things, and fix them in no particular order.
+I’m yoru. I specialise in managing Discord communities, coordinating development teams, and building structured systems that keep projects moving.
 
-I like creating software that works *just enough*, and improving it until it works properly.
+Most of what I do revolves around organisation, communication, and helping teams work efficiently — whether that’s managing staff, planning projects, handling community operations, or keeping development organised behind the scenes.
 
-Most of my time is spent learning, experimenting, or turning ideas into code.
+I like turning chaotic ideas into functional systems.
 
 ---
 
 ## what i do
 
-- build web apps and tools  
-- experiment with different technologies  
-- learn by breaking things  
-- rebuild them better (usually)  
+- manage Discord communities and staff teams  
+- coordinate developers and project workflows  
+- organise community systems and operations  
+- improve communication between teams  
+- build tools and systems that make management easier  
+- solve problems before they become disasters  
+
+---
+
+## management focus
+
+### community management
+- staff team coordination  
+- moderation systems  
+- community structure and scaling  
+- engagement and organisation  
+- internal documentation and guidelines  
+
+### development management
+- managing development teams  
+- project planning and task organisation  
+- workflow optimisation  
+- testing and iteration coordination  
+- bridging communication between developers and communities  
 
 ---
 
 ## interests
 
+- community building  
+- leadership and team management  
 - software development  
+- systems design  
 - minimal UI and design  
 - games and interactive systems  
-- understanding how things work  
 
 ---
 
@@ -57,46 +79,61 @@ Most of my time is spent learning, experimenting, or turning ideas into code.
 
 ---
 
-## 👁️ stalk me
+## 👁️ status
 
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/1481033153387958388?bg=000000&borderRadius=10px&idleMessage=probably%20coding%20or%20offline&theme=dark&showDisplayName=true" />
+<img src="https://lanyard.cnrad.dev/api/1481033153387958388?bg=000000&borderRadius=10px&idleMessage=probably%20managing%20something&theme=dark&showDisplayName=true" />
 
 </div>
 
 ---
+
 ## links
 
-- discord: 1499087089629790293 @y_0_r_u
-- github: you’re already here  
+- discord: `@y_0_r_u`
+- github: you’re already here
 
 ---
-## 🚀 projects
+
+## 🚀 experience
 
 ### Novam Studios
-community director
+**Community Director**
 
-> building and managing community systems + projects inside Novam Studios
+> managing community systems, staff structure, and project coordination inside Novam Studios
 
-🔗 discord server → https://discord.com/invite/1394048333193941107  
+#### responsibilities
+- overseeing staff and moderation teams  
+- organising internal systems and workflows  
+- coordinating communication between developers and community teams  
+- helping manage projects and operations  
+- improving structure, efficiency, and scalability  
 
----
-
-### personal projects
-things I experiment with and break repeatedly
-
-- snake game (scuffed edition)  
-  🔗 https://your-link-here.com  
-
-- more coming soon  
-  🔗 in progress / not stable yet  
+🔗 discord server → https://discord.com/invite/novam
 
 ---
 
-### notes
+## projects
 
-I don’t really treat projects as finished products — more like evolving systems that slowly become usable over time.
+### internal systems & management tools
+tools and systems built to improve workflow, organisation, and moderation efficiency
+
+- management systems  
+- moderation utilities  
+- workflow organisation tools  
+- experimental automation projects  
+
+more coming soon™
+
+---
+
+## philosophy
+
+I don’t really see projects as “finished”.
+
+Communities, systems, and teams constantly evolve — my goal is to keep improving them over time, making them more efficient, scalable, and enjoyable to work in.
+
 ---
 
 <div align="center">
