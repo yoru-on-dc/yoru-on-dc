@@ -106,8 +106,11 @@ I like turning chaotic ideas into functional systems.
 
 ---
 
-## 🐧 Environment
+## 🐧 Environment / OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff)
+![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=ffffff)
 
 ---
 
