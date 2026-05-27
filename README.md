@@ -1,75 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=400&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=yoru" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&repeat=false&width=800&lines=yoru" />
 
 <br>
+<img src="https://img.shields.io/badge/domain-yoru.me.uk-8A2BE2?style=for-the-badge&labelColor=000000" />
+<br><br>
 
-<b style="color:#00F0FF;">community manager • team lead • systems builder</b>
+<b>community manager • development coordinator • systems builder</b>
 
 </div>
 
 ---
 
-## about me
+# 👤 about me
 
-I’m yoru. I specialise in managing Discord communities, coordinating development teams, and building structured systems that keep projects moving.
+I’m **yoru**.
 
-Most of what I do revolves around organisation, communication, and helping teams work efficiently — whether that’s managing staff, planning projects, handling community operations, or keeping development organised behind the scenes.
+I specialise in managing Discord communities, coordinating development teams, and building structured systems that keep projects organised and scalable.
 
-I like turning chaotic ideas into functional systems.
+Most of what I do revolves around:
+- communication
+- leadership
+- infrastructure
+- workflow organisation
+- community operations
+- team coordination
+
+I enjoy turning chaotic ideas into systems that actually function.
 
 ---
 
-## what i do
+# ⚡ what i do
 
-- manage Discord communities and staff teams  
+- manage Discord communities and moderation teams  
 - coordinate developers and project workflows  
-- organise community systems and operations  
 - improve communication between teams  
-- build tools and systems that make management easier  
-- solve problems before they become disasters  
+- build internal systems and management tools  
+- organise infrastructure and operations  
+- prevent problems before they become disasters  
 
 ---
 
-## management focus
+# 🌐 management focus
 
-### community management
-- staff team coordination  
+## community management
 - moderation systems  
-- community structure and scaling  
-- engagement and organisation  
-- internal documentation and guidelines  
+- community scaling  
+- engagement structure  
+- verification systems  
+- internal documentation  
+- support/ticket systems  
+- staff coordination  
 
-### development management
-- managing development teams  
-- project planning and task organisation  
+## development management
+- project organisation  
 - workflow optimisation  
-- testing and iteration coordination  
-- bridging communication between developers and communities  
+- sprint/task coordination  
+- QA and testing coordination  
+- communication between developers and communities  
+- infrastructure planning  
 
 ---
 
-## interests
+# 🧠 interests
 
-- community building  
-- leadership and team management  
-- software development  
 - systems design  
-- minimal UI and design  
-- games and interactive systems  
+- leadership & management  
+- backend systems  
+- automation  
+- UI/UX design  
+- real-time applications  
+- games & interactive systems  
 
 ---
 
-## tech i use
+# 💻 tech i use
 
-## 🌐 Frontend Development
+## 🌐 frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 
 ---
 
-## 🧠 Programming Languages
+## 🧠 languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -78,43 +94,61 @@ I like turning chaotic ideas into functional systems.
 
 ---
 
-## 🤖 Discord Bot Development
+## 🤖 discord & backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)
-![Discord API](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
 ---
 
-## ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge)
-
----
-
-## 🗄️ Databases
+## 🗄️ databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
 ---
 
-## 🛠️ Tools & DevOps
+## ⚙️ tools & devops
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-
----
-
-## 🐧 Environment / OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff)
-![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
 ---
 
-## 🎧 what i listen to
+# 🚀 experience
+
+## Novam Studios
+### Community Director
+
+> managing community systems, moderation structures, and internal coordination
+
+### responsibilities
+- overseeing moderation and staff teams  
+- improving workflow and organisation  
+- coordinating between developers and communities  
+- handling operations and internal systems  
+- scaling infrastructure and communication systems  
+
+🔗 discord.gg/novam
+
+---
+
+# 📊 current focus
+
+```diff
++ community infrastructure
++ development coordination
++ automation systems
++ backend development
++ scalable management systems
+```
+
+---
+
+# 🎧 currently listening to
 
 <div align="center">
 
@@ -124,65 +158,51 @@ I like turning chaotic ideas into functional systems.
 
 ---
 
-## 👁️ status
+# 👁️ status
 
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/1481033153387958388?bg=000000&borderRadius=10px&idleMessage=probably%20managing%20something&theme=dark&showDisplayName=true" />
+<img src="https://lanyard.cnrad.dev/api/1481033153387958388?bg=000000&borderRadius=12px&idleMessage=probably%20managing%20something&theme=dark&showDisplayName=true" />
 
 </div>
 
 ---
 
-## links
+# 📂 projects
 
-- discord: `@y_0_r_u`
-- github: you’re already here
+## internal systems & management tools
 
----
-
-## 🚀 experience
-
-### Novam Studios
-**Community Director**
-
-> managing community systems, staff structure, and project coordination inside Novam Studios
-
-#### responsibilities
-- overseeing staff and moderation teams  
-- organising internal systems and workflows  
-- coordinating communication between developers and community teams  
-- helping manage projects and operations  
-- improving structure, efficiency, and scalability  
-
-🔗 discord server → https://discord.com/invite/novam
-
----
-
-## projects
-
-### internal systems & management tools
-tools and systems built to improve workflow, organisation, and moderation efficiency
-
-- management systems  
-- moderation utilities  
-- workflow organisation tools  
-- experimental automation projects  
+systems designed to improve:
+- moderation efficiency  
+- workflow organisation  
+- communication  
+- infrastructure management  
+- automation and operations  
 
 more coming soon™
 
 ---
 
-## philosophy
+# 📜 philosophy
 
-I don’t really see projects as “finished”.
+I don’t really see projects or communities as “finished”.
 
-Communities, systems, and teams constantly evolve — my goal is to keep improving them over time, making them more efficient, scalable, and enjoyable to work in.
+Everything evolves over time — teams, systems, infrastructure, communities.
+
+My goal is to continuously improve them, make them scalable, and create environments that people actually enjoy working in.
+
+---
+
+# 📬 links
+
+- discord → `@y_0_r_u`
+- website → `yoru.me.uk`
+- github → you're already here
 
 ---
 
 <div align="center">
 
-thanks for stopping by
+thanks for stopping by 👾
 
 </div>
