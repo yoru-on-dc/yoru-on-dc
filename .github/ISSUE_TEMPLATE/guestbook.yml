@@ -1,7 +1,9 @@
 name: 📮 Guest Book
 description: Leave a message on Yoru's profile ✨
 title: "📮 [Guest Book]"
-labels: ["guestbook"]
+labels:
+  - guestbook
+
 body:
   - type: markdown
     attributes:
