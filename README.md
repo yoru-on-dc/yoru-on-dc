@@ -197,7 +197,7 @@ My goal is to continuously improve them, make them scalable, and create environm
 
 - discord → `@y_0_r_u`
 - website → `yoru.me.uk`
-- github → you're already here
+- github → you're already here  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q71ZCRCQ)
 
 ---
