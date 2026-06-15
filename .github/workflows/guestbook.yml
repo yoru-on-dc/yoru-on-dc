@@ -42,7 +42,7 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           body: |
             Thanks for signing the guest book, @${{ github.event.issue.user.login }}! 🎉
-            Your message has been added to [my profile](https://github.com/kanywst). ✨
+            Your message has been added to [my profile](https://github.com/yoru-on-dc). ✨
 
       - name: Close issue
         uses: peter-evans/close-issue@v3
