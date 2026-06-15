@@ -34,7 +34,7 @@ I enjoy turning chaotic ideas into systems that actually function.
 
 <p><i>Leave a trace. If you visited, say hi — takes 10 seconds.</i></p>
 
-<a href="https://github.com/kanywst/kanywst/issues/new?template=guestbook.yml&title=%F0%9F%93%AE+%5BGuest+Book%5D">
+<a href="https://github.com/yoru-on-dc/yoru-on-dc/issues/new?template=guestbook.yml&title=%F0%9F%93%AE+%5BGuest+Book%5D">
   <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Sign%20the%20Guest%20Book-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sign the Guest Book" />
 </a>
 
