@@ -20,44 +20,51 @@ MAX_ENTRIES = 20  # 表示する最大メッセージ数
 START_MARKER = "<!-- GUESTBOOK:START -->"
 END_MARKER = "<!-- GUESTBOOK:END -->"
 
+REPO_OWNER = "yoru-on-dc"
+REPO_NAME = "yoru-on-dc"
+ISSUE_BASE_URL = f"https://github.com/{REPO_OWNER}/{REPO_NAME}/issues"
+
 
 def parse_message(body: str) -> str:
     """GitHub Issue フォームの本文からメッセージを抽出する。"""
-    # YAML form: "### 💬 Your message\n\nHello!" の形式
     match = re.search(
         r"###.*?Your message.*?\n+(.+?)(?:\n###|\Z)", body, re.DOTALL | re.IGNORECASE
     )
     if match:
         msg = match.group(1).strip()
     else:
-        # フォールバック: 本文全体の最初の非空行
         lines = [l.strip() for l in body.splitlines() if l.strip() and not l.startswith("#")]
         msg = lines[0] if lines else "(no message)"
-    # テーブル内で問題になる文字をエスケープ
+
     msg = msg.replace("|", "\\|").replace("\n", " ")
-    return msg[:200]  # 最大200文字
+    return msg[:200]
 
 
 def build_row(user: str, message: str, ts: str, issue_number: str) -> str:
     safe_user = html.escape(user)
     safe_message = html.escape(message)
+
     profile_url = f"https://github.com/{safe_user}"
-    issue_url = f"https://github.com/kanywst/kanywst/issues/{issue_number}"
-    return f"    <tr><td><code>{ts}</code></td><td><a href=\"{profile_url}\">@{safe_user}</a></td><td><a href=\"{issue_url}\">{safe_message}</a></td></tr>"
+    issue_url = f"{ISSUE_BASE_URL}/{issue_number}"
+
+    return (
+        f"    <tr>"
+        f"<td><code>{ts}</code></td>"
+        f"<td><a href=\"{profile_url}\">@{safe_user}</a></td>"
+        f"<td><a href=\"{issue_url}\">{safe_message}</a></td>"
+        f"</tr>"
+    )
 
 
 def parse_existing_rows(block: str) -> list[str]:
-    """マーカー間のブロックからデータ行だけを抽出する。"""
     rows = []
     for line in block.splitlines():
-        # データ行: <tr><td><code> で始まる行（タイムスタンプ付き）
         if "<tr><td><code>" in line:
             rows.append(line)
     return rows
 
 
 def build_table(rows: list[str]) -> str:
-    """行リストから整形済みテーブルブロックを生成する。"""
     header = """<table align="center">
   <thead>
     <tr>
@@ -67,13 +74,18 @@ def build_table(rows: list[str]) -> str:
     </tr>
   </thead>
   <tbody>"""
+
     footer = """  </tbody>
 </table>"""
-    if not rows:
-        empty = "    <tr><td>–</td><td>–</td><td><em>No messages yet. Be the first!</em></td></tr>"
-        return f"{header}\n{empty}\n{footer}"
-    return f"{header}\n" + "\n".join(rows) + f"\n{footer}"
 
+    if not rows:
+        empty = (
+            "    <tr><td>–</td><td>–</td>"
+            "<td><em>No messages yet. Be the first!</em></td></tr>"
+        )
+        return f"{header}\n{empty}\n{footer}"
+
+    return f"{header}\n" + "\n".join(rows) + f"\n{footer}"
 
 
 def update_readme(new_row: str) -> None:
@@ -81,13 +93,13 @@ def update_readme(new_row: str) -> None:
         content = f.read()
 
     pattern = re.compile(
-        rf"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}", re.DOTALL
+        rf"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}",
+        re.DOTALL
     )
 
     match = pattern.search(content)
     existing_rows = parse_existing_rows(match.group(0)) if match else []
 
-    # 新しいエントリを先頭に追加し、最大件数にクリップ
     all_rows = [new_row] + existing_rows
     all_rows = all_rows[:MAX_ENTRIES]
 
@@ -105,9 +117,10 @@ def main():
 
     message = parse_message(body)
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    row = build_row(user, message, ts, issue_number)
 
+    row = build_row(user, message, ts, issue_number)
     update_readme(row)
+
     print(f"✅ Added message from @{user}: {message}")
 
 
