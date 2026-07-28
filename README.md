@@ -52,6 +52,7 @@ I enjoy turning chaotic ideas into systems that actually function.
     </tr>
   </thead>
   <tbody>
+    <tr><td><code>2026-07-28</code></td><td><a href="https://github.com/htwjft">@htwjft</a></td><td><a href="https://github.com/yoru-on-dc/yoru-on-dc/issues/12">Hello from Loaf :3</a></td></tr>
     <tr><td><code>2026-06-15</code></td><td><a href="https://github.com/glitch-bny">@glitch-bny</a></td><td><a href="https://github.com/yoru-on-dc/yoru-on-dc/issues/6">Hai Yoru im gonna steal this :)</a></td></tr>
     <tr><td><code>2026-06-15</code></td><td><a href="https://github.com/yoru-on-dc">@yoru-on-dc</a></td><td><a href="https://github.com/yoru-on-dc/yoru-on-dc/issues/5">FINALLY got this working! Please dont abuse it :)</a></td></tr>
   </tbody>
