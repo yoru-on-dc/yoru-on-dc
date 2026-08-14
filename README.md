@@ -153,24 +153,6 @@ I enjoy turning chaotic ideas into systems that actually function.
 
 ---
 
-# 🚀 experience
-
-## Novam Studios
-### Community Director
-
-> managing community systems, moderation structures, and internal coordination
-
-### responsibilities
-- overseeing moderation and staff teams  
-- improving workflow and organisation  
-- coordinating between developers and communities  
-- handling operations and internal systems  
-- scaling infrastructure and communication systems  
-
-🔗 discord.gg/novam
-
----
-
 # 📊 current focus
 
 ```diff
@@ -198,6 +180,11 @@ I enjoy turning chaotic ideas into systems that actually function.
 <div align="center">
 
 <img src="https://lanyard.cnrad.dev/api/1481033153387958388?bg=000000&borderRadius=12px&idleMessage=probably%20managing%20something&theme=dark&showDisplayName=true" />
+
+# 👁️ Alt Account Status
+
+
+<img src="https://lanyard.cnrad.dev/api/1512032332163448880?bg=000000&borderRadius=12px&idleMessage=probably%20managing%20something&theme=dark&showDisplayName=true" />
 
 </div>
 
@@ -230,7 +217,7 @@ My goal is to continuously improve them, make them scalable, and create environm
 
 # 📬 links
 
-- discord → `@y_0_r_u`
+- discord → `@yoru.bun | @yoru.me.uk`
 - website → `yoru.me.uk`
 - github → you're already here  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q71ZCRCQ)
