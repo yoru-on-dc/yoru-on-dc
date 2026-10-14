@@ -11,7 +11,7 @@
 <b>community manager • development coordinator • systems builder</b>
 
 <br>
-<sub>🌸 <i>Theme accented in Coral Pink — Lia's favorite color!</i> ✨</sub>
+<sub>🌸 <i>Theme accented in Violet — Elodie's favorite color!</i> ✨</sub>
 
 </div>
 
