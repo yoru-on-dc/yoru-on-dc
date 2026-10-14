@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A47DAB&height=120&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=500&color=FF6F91&center=true&vCenter=true&repeat=false&width=800&lines=yoru;community+manager;development+coordinator;systems+builder" alt="yoru typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=500&color=A47DAB&center=true&vCenter=true&repeat=false&width=800&lines=yoru;community+manager;development+coordinator;systems+builder" alt="yoru typing header" />
 
 <br>
-<img src="https://img.shields.io/badge/domain-yoru.me.uk-FF6F91?style=for-the-badge&labelColor=121216" alt="domain" />
+<img src="https://img.shields.io/badge/domain-yoru.me.uk-A47DAB?style=for-the-badge&labelColor=121216" alt="domain" />
 <br><br>
 
 <b>community manager • development coordinator • systems builder</b>
@@ -105,7 +105,7 @@ I’m **yoru**. I specialise in managing Discord communities, coordinating devel
 <br>
 
 #### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF6F91)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=A47DAB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -162,7 +162,7 @@ Systems designed to improve:
 <p><i>Leave a trace. If you visited, say hi — takes 10 seconds! ✍️</i></p>
 
 <a href="https://github.com/yoru-on-dc/yoru-on-dc/issues/new?template=guestbook.yml&title=%F0%9F%93%AE+%5BGuest+Book%5D">
-  <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Sign%20the%20Guest%20Book-FF6F91?style=for-the-badge&logo=github&logoColor=white" alt="Sign the Guest Book" />
+  <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Sign%20the%20Guest%20Book-A47DAB?style=for-the-badge&logo=github&logoColor=white" alt="Sign the Guest Book" />
 </a>
 
 <br>
@@ -219,7 +219,7 @@ Systems designed to improve:
 
 #### 🎧 Currently Listening To
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=y_0_r_u&count=3&width=420&loved=true&bg_color=000000&border_radius=10&header_style=none&title_color=FF6F91&text_color=FFB3C1&icon_color=FF6F91" alt="Last.fm Listening To" />
+<img src="https://lastfm-recently-played.vercel.app/api?user=y_0_r_u&count=3&width=420&loved=true&bg_color=000000&border_radius=10&header_style=none&title_color=A47DAB&text_color=FFB3C1&icon_color=A47DAB" alt="Last.fm Listening To" />
 
 </div>
 
@@ -229,13 +229,13 @@ Systems designed to improve:
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-yoru.bun%20%7C%20yoru.me.uk-FF6F91?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Website](https://img.shields.io/badge/Website-yoru.me.uk-FF6F91?style=for-the-badge&logo=firefox&logoColor=white)](https://yoru.me.uk)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-FF6F91?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Q5Q71ZCRCQ)
+[![Discord](https://img.shields.io/badge/Discord-yoru.bun%20%7C%20yoru.me.uk-A47DAB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Website](https://img.shields.io/badge/Website-yoru.me.uk-A47DAB?style=for-the-badge&logo=firefox&logoColor=white)](https://yoru.me.uk)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-A47DAB?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Q5Q71ZCRCQ)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A47DAB&height=100&section=footer" width="100%" />
 
 <sub>Thanks for stopping by! 👾</sub>
 
