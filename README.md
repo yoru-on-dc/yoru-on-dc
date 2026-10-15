@@ -11,7 +11,7 @@
 <b>community manager • development coordinator • systems builder</b>
 
 <br>
-<sub>🌸 <i>Theme accented in Violet — Elodie's favorite color!</i> ✨</sub>
+<sub>🌸 <i>Theme accented in Violet/Purple — The favorite color of someone Special to ME!</i> ✨</sub>
 
 </div>
 
